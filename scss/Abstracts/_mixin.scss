@@ -1,0 +1,16 @@
+%btn{
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 15px 40px;
+    display: inline-block;
+    border-radius: 100px;
+    font-size: 1.6rem;
+    position: relative;
+}
+%clearfix{
+    &::after{
+        content: '';
+        display: table;
+        clear: both;
+    }
+}

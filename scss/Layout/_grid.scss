@@ -12,6 +12,7 @@
     margin: 0 auto;
     @extend %clearfix;
     .col{
+        width: 100%;
         margin-bottom: 10px
     }
     .col-1-of-2{

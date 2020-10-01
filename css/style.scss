@@ -1,6 +1,6 @@
-@import '../scss/Base/base';
 @import '../scss/Abstracts/variable';
 @import '../scss/Abstracts/mixin';
+@import '../scss/Base/base';
 @import '../scss/Base/typography';
 @import '../scss/Base/utilities';
 @import '../scss/Layout/header';
@@ -16,8 +16,8 @@
 @import '../scss/Components/form';
 @import '../scss/Components/footer';
 @import '../scss/Components/popup';
+@import '../scss/Components/navigation';
 @import '../scss/Base/animations';
-
 
 // @mixin btn($color, $bg){
 //     color: $color !important;
